@@ -6,7 +6,6 @@
 		* [ ] Category selection
 		* [ ] Show +18
 	* [ ] Log in
-		* [ ] Get specific auth
 	* [ ] Create Product
 		* [ ] Categories
 		* [ ] +18 consideration
@@ -18,10 +17,18 @@
 		* [ ] Create for you or Organization (if has permissions)
 	* [ ] List Products
 		* [ ] User targeted
+	* [ ] List Accounts
+		* [ ] Accounts level
+		* [ ] Teterinos
+		* [ ] Account follow/mute/block/report
+	* [ ] Buy Product
+		* [ ] Add to cart
+	* [ ] Outside advertisment
 	* [ ] Log out
 * [ ] API
 	* [ ] Auth endpoint
 		* [ ] JWT auth
+			* [ ] Get specific auth
 		* [ ] SSO
 		* [ ] 2FA / OTP / TOTP
 		* [ ] Blockchain-based solution
@@ -29,6 +36,8 @@
 	* [ ] REST endpoint
 		* [ ] JSON-LD
 		* [ ] schema.org
+		* [ ] Pagination
+	* [ ] GraphQL endpoint
 * [ ] Website
 	* [ ] Wiki
 		* [ ] Accounts
