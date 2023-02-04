@@ -45,6 +45,10 @@
 			* [ ] Authorization
 * [ ] Market-places network
 * [ ] Immersive front-end
+	* [ ] tinygl
 * [ ] Market-place managment desktop software
+	* [ ] Qt V.S. Tauri V.S. Nuklear
 * [ ] Android application market-places client
+* [ ] TUI/CLI
+	* [ ] termbox
 * [ ] Extensions and Add-ons
