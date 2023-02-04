@@ -1,10 +1,10 @@
 # TODO
 
-* [ ] Web-browser front-end
-	* [ ] Create account
+* [x] Web-browser front-end
+	* [x] Create account
 		* [ ] Difference between Person and Organization accounts
-		* [ ] Category selection
-		* [ ] Show +18
+		* [x] Category selection
+		* [x] Show +18
 	* [ ] Log in
 	* [ ] Create Product
 		* [ ] Categories
