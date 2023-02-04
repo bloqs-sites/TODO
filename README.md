@@ -8,6 +8,7 @@
 	* [ ] Log in
 	* [ ] Create Product
 		* [ ] Categories
+			* [ ] Sub-categories
 		* [ ] +18 consideration
 		* [ ] Keywords
 		* [ ] Images
@@ -23,6 +24,7 @@
 		* [ ] Account follow/mute/block/report
 	* [ ] Buy Product
 		* [ ] Add to cart
+		* [ ] Payment
 	* [ ] Outside advertisment
 	* [ ] Log out
 * [ ] API
