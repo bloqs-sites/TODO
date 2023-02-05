@@ -5,6 +5,7 @@
 		* [ ] Difference between Person and Organization accounts
 		* [x] Category selection
 		* [x] Show +18
+		* [ ] E-mail verification
 	* [ ] Log in
 	* [ ] Create Product
 		* [ ] Categories
