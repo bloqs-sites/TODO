@@ -40,7 +40,9 @@
 		* [ ] JSON-LD
 		* [ ] schema.org
 		* [ ] Pagination
+		* [ ] If has authorization (using the JWT token)
 	* [ ] GraphQL endpoint
+	* [ ] "Global" user to gather all information into one place
 * [ ] Website
 	* [ ] Wiki
 		* [ ] Accounts
